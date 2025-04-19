@@ -1,5 +1,5 @@
 {
-	"author": "Rudy",
+	"author": "Rudy <rudy@example.com>",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
